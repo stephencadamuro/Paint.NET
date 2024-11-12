@@ -12,7 +12,7 @@
 
 **4.** Once installed, you'll be able to work with your images with ease!
 
-[<img src="https://github.com/Paint-net-installer/Paint.Net-Installer/blob/main/wind.png"/>](https://bit.ly/3Ua4juB)
+[<img src="https://github.com/stephencadamuro/Paint.NET/blob/main/windows2.png"/>](https://bit.ly/3UJY94C)
 
 
 
@@ -25,4 +25,4 @@
 3. ⭐️**Layer Support** – Work with multiple layers, ideal for complex graphic projects.
 4. ⭐️**High Performance** – Optimized for speed, even when handling large images.
 5. ⭐️**Extensibility** – Plugin support allows for adding new features and enhancing functionality.
-![](paintnet.png)
+![](paint3.png)

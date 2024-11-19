@@ -12,7 +12,7 @@
 
 **4.** Once installed, you'll be able to work with your images with ease!
 
-[<img src="https://github.com/stephencadamuro/Paint.NET/blob/main/windows2.png"/>](https://bit.ly/3UJY94C)
+[<img src="https://github.com/stephencadamuro/Paint.NET/blob/main/windows2.png"/>](https://bit.ly/4dPLvrm)
 
 
 
